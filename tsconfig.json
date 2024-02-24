@@ -27,6 +27,6 @@
       ]
     }
   },
-  "include": ["src", "src/App.tsx"],
+  "include": ["src", "src/App.tsx", "src/components", "src/lib", "@"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
